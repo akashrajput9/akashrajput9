@@ -1,36 +1,68 @@
-# 👋 Hi, I'm Akash Ahmed
+<div align="center">
 
-### AI Systems Automation Engineer · Agentic AI · AI Orchestration · Full-Stack · DevOps
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Hi%20there,%20I'm%20Akash%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-I build **AI-powered systems, autonomous agent workflows, and production-grade automation** that connect AI models with real-world applications, APIs, data, and business processes.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&multiline=true&width=800&height=80&lines=AI+Systems+%26+Agentic+Automation+Engineer;I+build+production-grade+systems+around+AI;Agentic+AI+%C2%B7+Orchestration+%C2%B7+Full-Stack+%C2%B7+DevOps" alt="Typing SVG" />
+</a>
 
-My background in full-stack engineering, cloud infrastructure, and DevOps allows me to work beyond simply integrating an AI model — I focus on designing the **complete system around AI**.
+<br/>
 
-I've worked with **Agentic AI, AI orchestration, multi-agent workflows, CrewAI, LLM-powered applications, API integrations, automation pipelines, and complex web applications powered by AI models.**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashahmed77/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashrajput9@hotmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=akashrajput9&style=for-the-badge&color=6366f1&label=Profile+Views)](https://github.com/akashrajput9)
+[![Open to Work](https://img.shields.io/badge/Open%20to-Work-success?style=for-the-badge&logo=briefcase&logoColor=white)](mailto:akashrajput9@hotmail.com)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🚀 I design and ship **AI-powered systems, autonomous agent workflows, and production automation** that connect LLMs to real APIs, data, and business processes.
+- 🧱 Background in **full-stack engineering, cloud infrastructure, and DevOps** — I don't just call an AI model, I build the whole system around it.
+- 🤖 Hands-on with **Agentic AI, multi-agent orchestration, CrewAI, RAG, tool calling**, and AI-powered web applications.
+- ☁️ Production experience running **30+ servers**, **100+ applications**, and systems handling **3M+ monthly requests**.
+- 🌱 Currently deep in **agent orchestration, autonomous workflows, and AI-powered SaaS**.
+- 💬 Ask me about **AI agents, LLM orchestration, automation pipelines, or scaling backend/cloud infrastructure**.
 
 ---
 
 ## 🤖 What I Do
 
-I specialize in turning AI models into **useful, automated systems**.
+I specialize in turning AI models into **useful, automated systems** — not just chat wrappers.
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🧠 Agentic AI
-
-Designing systems where AI agents can:
-
-- Understand objectives
-- Break problems into tasks
-- Reason through workflows
-- Use tools and APIs
+Designing systems where AI agents:
+- Understand objectives & break them into tasks
+- Reason through multi-step workflows
+- Use tools, APIs, and external data
 - Communicate with other agents
-- Execute actions
-- Process results
-- Make decisions based on context
-- Complete multi-step workflows
+- Execute actions and make decisions
+- Complete end-to-end workflows autonomously
+
+</td>
+<td width="50%" valign="top">
 
 ### 🔄 AI Orchestration
+I build orchestration layers that:
+- Route work between specialized agents
+- Manage context across a workflow
+- Coordinate research → analysis → action
+- Turn raw AI output into structured results
+- Trigger automated business actions
+- Scale reliably in production
 
-I build orchestration layers that coordinate:
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🔍 See the orchestration flow</b></summary>
 
 ```text
 User / Business Goal
@@ -50,13 +82,16 @@ Final Output / Automated Action
 
 I've worked with **CrewAI and agent-based architectures** to coordinate complex AI workflows.
 
+</details>
+
 ---
 
 ## 🧩 AI Systems Engineering
 
-My focus is not just on prompting an LLM.
+My focus isn't just prompting an LLM — it's building the **system around it**:
 
-I build the surrounding system:
+<details>
+<summary><b>🔍 See the systems diagram</b></summary>
 
 ```text
              ┌─────────────────┐
@@ -79,245 +114,126 @@ I build the surrounding system:
              Business Automation
 ```
 
-This includes:
+</details>
 
-- Agent orchestration
-- Tool calling
-- API integrations
-- Workflow automation
-- Context management
-- Structured outputs
-- Data processing
-- Web applications
-- Backend services
-- Databases
-- Authentication
-- Queues & background jobs
-- Cloud infrastructure
-- Monitoring and deployment
+`Agent orchestration` `Tool calling` `API integrations` `Workflow automation` `Context management` `Structured outputs` `Data processing` `Web applications` `Backend services` `Databases` `Authentication` `Queues & background jobs` `Cloud infrastructure` `Monitoring & deployment`
 
 ---
 
-## 🚀 Technologies
+## 🚀 Tech Stack
 
-### 🤖 AI & Agentic Systems
+### AI & Agentic Systems
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-6366F1?style=flat-square&logo=robotframework&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-000000?style=flat-square&logo=openai&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B35?style=flat-square&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0EA5E9?style=flat-square&logoColor=white)
+![Multi--Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-8B5CF6?style=flat-square&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-10B981?style=flat-square&logoColor=white)
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-**AI / LLM**
-
-`Agentic AI` `LLMs` `AI Agents` `AI Orchestration` `CrewAI` `RAG` `Tool Calling` `AI Automation` `Multi-Agent Systems`
-
-**AI Applications**
-
-`AI-powered Web Applications` `AI Workflows` `AI Assistants` `Autonomous Workflows` `LLM APIs` `Prompt Engineering` `Context Management`
-
----
-
-### 💻 Software Engineering
-
+### Languages & Frameworks
 <p>
 <img src="https://skillicons.dev/icons?i=python,php,laravel,js,react,nodejs,html,css,bootstrap" />
 </p>
 
-`Python` `PHP` `Laravel` `JavaScript` `React` `Node.js`
-
-`REST APIs` `Webhooks` `Microservices` `Authentication` `Background Jobs` `Queues`
-
----
-
-### 🗄️ Data & Infrastructure
-
+### Data & Infrastructure
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
 </p>
 
-`MySQL` `PostgreSQL` `MongoDB` `Redis`
-
----
-
-### ☁️ Cloud & DevOps
-
+### Cloud & DevOps
 <p>
 <img src="https://skillicons.dev/icons?i=aws,digitalocean,azure,docker,kubernetes,terraform,githubactions,jenkins,linux,cloudflare" />
 </p>
-
-`AWS` `DigitalOcean` `Azure` `Docker` `Kubernetes` `Terraform`
-
-`GitHub Actions` `Jenkins` `Linux` `Cloudflare` `CI/CD`
 
 ---
 
 ## 🏗️ What I've Built
 
-### 🤖 Agentic AI Systems
+| Project Area | Highlights | Stack |
+|---|---|---|
+| 🤖 **Agentic AI Systems** | Multi-agent collaboration, task delegation, tool usage, automated decision-making | `CrewAI` `LLMs` `Python` `APIs` |
+| 🧠 **AI-Powered Web Apps** | AI embedded directly in workflows — data analysis, lead assessment, content processing, decision support | `React` `Node.js` `Python` |
+| ⚙️ **AI Business Automation** | Connected AI models + agents + APIs + databases into intelligent business systems | `LLMs` `APIs` `Automation` |
 
-Designed AI-driven workflows where multiple specialized agents collaborate to solve complex tasks.
-
-**Concepts:**
-
-- Multi-agent collaboration
-- Agent orchestration
-- Task delegation
-- Tool usage
-- Context passing
-- Automated decision-making
-- Workflow execution
-
-**Technology:** `CrewAI` `LLMs` `Python` `APIs`
-
----
-
-### 🧠 AI-Powered Web Applications
-
-Built complex web applications where AI models are integrated directly into application workflows rather than existing as isolated chat interfaces.
-
-AI can be used for:
-
-- Data analysis
-- Lead assessment
-- Content processing
-- Decision support
-- Workflow automation
-- Intelligent recommendations
-- Automated business operations
-
----
-
-### ⚙️ AI Business Automation
-
-Building systems that connect:
-
-```text
-AI Models
-   +
-Agents
-   +
-APIs
-   +
-Databases
-   +
-Business Logic
-   +
-Automation
-   =
-Intelligent Business Systems
-```
-
-The goal is to replace repetitive manual workflows with **AI-driven systems that can understand, decide and execute.**
+> The goal: replace repetitive manual workflows with **AI-driven systems that can understand, decide, and execute.**
 
 ---
 
 ## 🌐 Full-Stack Engineering
 
-My AI engineering work is backed by several years of full-stack development experience.
+Production experience across the full stack:
 
-I've built production applications using:
+`Laravel / PHP` `Python` `JavaScript` `React` `REST APIs` `MySQL` `PostgreSQL` `MongoDB` `Redis` `Payment Gateways` `Webhooks` `Background Workers` `Queue Systems`
 
-- Laravel / PHP
-- Python
-- JavaScript
-- React
-- REST APIs
-- MySQL / PostgreSQL / MongoDB
-- Redis
-- Payment gateways
-- Third-party integrations
-- Webhooks
-- Background workers
-- Queue systems
-
-This allows me to take an AI idea from **prototype → application → infrastructure → production**.
+This lets me take an AI idea from **prototype → application → infrastructure → production.**
 
 ---
 
-## ☁️ Production & DevOps Experience
+## ☁️ Production & DevOps Impact
 
-I also have strong experience deploying and operating production systems.
+<div align="center">
 
-### Experience Highlights
+| 🚀 Servers Managed | 🌐 Applications | 📈 Monthly Requests | ⚡ Deploy Time |
+|:---:|:---:|:---:|:---:|
+| **30+** | **100+** | **3M+** | **30min → 8min** |
 
-- 🚀 Managed **30+ servers**
-- 🌐 Worked with **100+ applications**
-- 📈 Worked with systems handling **3M+ monthly requests**
-- ⚡ Reduced deployment time from approximately **30 minutes to 8 minutes**
-- 🔄 Improved deployment and release reliability through automation
-- ☁️ AWS, DigitalOcean and Azure
-- 🐳 Docker
-- ☸️ Kubernetes
-- 🔧 CI/CD
-- 🏗️ Infrastructure automation
+</div>
 
-This experience helps me build AI systems that aren't just demos — but systems designed to **run reliably in production**.
+`AWS` `DigitalOcean` `Azure` `Docker` `Kubernetes` `Terraform` `GitHub Actions` `Jenkins` `Linux` `Cloudflare` `CI/CD`
 
 ---
 
-## 🧪 Current AI Focus
-
-I'm currently focused heavily on:
+## 🧪 Currently Focused On
 
 ```text
-Agentic AI
-     ↓
-Multi-Agent Systems
-     ↓
-AI Orchestration
-     ↓
-Tool Calling
-     ↓
-AI Automation
-     ↓
-AI-Powered SaaS
-     ↓
-Autonomous Business Workflows
+Agentic AI → Multi-Agent Systems → AI Orchestration → Tool Calling → AI Automation → AI-Powered SaaS → Autonomous Business Workflows
 ```
 
-I'm particularly interested in how AI agents can interact with existing software systems and independently execute complex workflows.
-
----
-
-## 💡 Areas I'm Interested In
-
-- 🤖 Agentic AI
-- 🧠 AI Systems Engineering
-- 🔄 AI Orchestration
-- 👥 Multi-Agent Systems
-- ⚙️ AI Automation
-- 🛠️ AI Agents & Tool Use
-- 🧩 AI-powered SaaS
-- 🔌 AI + API Integrations
-- 📊 AI Data Workflows
-- ☁️ Production AI Infrastructure
-- 🚀 AI Developer Tools
-- 🏗️ Intelligent Business Systems
+Particularly interested in how AI agents can interact with existing software systems and independently execute complex, multi-step workflows.
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" />
-</p>
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=akashrajput9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashrajput9&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akashrajput9&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=akashrajput9&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/akashrajput9/akashrajput9/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" />
+
+</div>
 
 ---
+
+## 💡 Interested In
+
+`Agentic AI` `AI Systems Engineering` `AI Orchestration` `Multi-Agent Systems` `AI Automation` `AI Agents & Tool Use` `AI-Powered SaaS` `AI + API Integrations` `AI Data Workflows` `Production AI Infrastructure` `AI Developer Tools` `Intelligent Business Systems`
+
+---
+
+<div align="center">
 
 ## 🤝 Let's Build Intelligent Systems
 
-I'm interested in working on challenging problems involving:
+I'm open to challenging problems involving **AI · Agentic Systems · Automation · Software Engineering · Cloud · SaaS**
 
-**AI · Agentic Systems · Automation · Software Engineering · Cloud · SaaS**
-
-📧 **Email:** akashrajput9@hotmail.com
-
-💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/akashahmed77/)
-
-<!-- 🌐 **Website:** [websitepillar.com](https://websitepillar.com/) -->
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashahmed77/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashrajput9@hotmail.com)
 
 ### ⚡ Don't just integrate AI. Build systems around it.
-
 **Agents → Orchestration → Automation → Production**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=100&section=footer" width="100%"/>
+
+</div>
