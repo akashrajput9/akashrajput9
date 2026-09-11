@@ -310,11 +310,11 @@ I'm interested in working on challenging problems involving:
 
 **AI · Agentic Systems · Automation · Software Engineering · Cloud · SaaS**
 
-📧 **Email:** your-email@example.com
+📧 **Email:** akashrajput9@hotmail.com
 
-💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/)
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/akashahmed77/)
 
-🌐 **Website:** [websitepillar.com](https://websitepillar.com/)
+<!-- 🌐 **Website:** [websitepillar.com](https://websitepillar.com/) -->
 
 ---
 
