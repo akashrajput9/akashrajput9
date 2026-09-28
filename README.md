@@ -159,6 +159,39 @@ My focus isn't just prompting an LLM — it's building the **system around it**:
 
 ---
 
+## 📂 Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 [RAG Research — Wikipedia Q&A](https://github.com/akashrajput9/rag_research_wikipedia)
+Retrieval-Augmented Generation pipeline that turns Wikipedia articles into a vector knowledge base and answers questions **grounded only in the retrieved documents**.
+
+- Ingestion: load → chunk → embed → persist in **ChromaDB** (cosine)
+- Retrieval: top-k similarity search + grounded **GPT-4o** answers
+- Experiments with **Voyage AI**, **Gemini** and **LangChain Deep Agents**
+
+`Python` `LangChain` `OpenAI` `ChromaDB` `RAG`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛍️ [WooCommerce → Shopify Product Scraper](https://github.com/akashrajput9/scrap-products-for-waleed)
+Migration pipeline that crawled a French beauty e-commerce store and generated a **ready-to-import Shopify CSV** of the full catalogue.
+
+- **26** categories crawled · **2,438** pages archived
+- **1,305** unique products · **2,161** variant rows · **144** brands
+- Variants, images, SEO, de-duplication & Shopify taxonomy mapping
+
+`Python` `BeautifulSoup` `Requests` `WooCommerce` `Shopify`
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🌐 Full-Stack Engineering
 
 Production experience across the full stack:
